@@ -4,21 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0b292df9e397b1013a1f2b750018dddf",
+    "content-hash": "5b449eb4298e8fe92e091af069894ead",
     "packages": [
         {
             "name": "leonickl/pxp-core",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "git@github.com:leonickl/pxp-core.git",
-                "reference": "a46c373c35e18dcef56742bb1d6093f990c4ef19"
+                "url": "https://github.com/leonickl/pxp-core.git",
+                "reference": "7c64162df75384a62b1d3822499740d3d5797e48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/leonickl/pxp-core/zipball/a46c373c35e18dcef56742bb1d6093f990c4ef19",
-                "reference": "a46c373c35e18dcef56742bb1d6093f990c4ef19",
+                "url": "https://api.github.com/repos/leonickl/pxp-core/zipball/7c64162df75384a62b1d3822499740d3d5797e48",
+                "reference": "7c64162df75384a62b1d3822499740d3d5797e48",
                 "shasum": ""
+            },
+            "require-dev": {
+                "laravel/pint": "^1.24"
             },
             "default-branch": true,
             "type": "library",
@@ -41,7 +44,7 @@
                 "source": "https://github.com/leonickl/pxp-core/tree/main",
                 "issues": "https://github.com/leonickl/pxp-core/issues"
             },
-            "time": "2025-08-02T13:28:38+00:00"
+            "time": "2025-08-03T22:26:38+00:00"
         }
     ],
     "packages-dev": [
