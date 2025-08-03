@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'title' => 'PXP App',
+    'title' => 'URL Shortener',
     'domain' => 'localhost',
-    'port' => 8085,
+    'port' => 8087,
 ];
