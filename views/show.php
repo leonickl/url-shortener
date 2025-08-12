@@ -61,7 +61,7 @@
 
     <div class="detail">
         <span class="label">Shortened URL</span>
-        <div class="value"><?= 'http://'.config('domain').'/s/'.$record->short ?></div>
+        <div class="value"><?= 'https://'.config('domain').'/s/'.$record->short ?></div>
     </div>
 
     <div class="detail">
