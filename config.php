@@ -2,6 +2,6 @@
 
 return [
     'title' => 'URL Shortener',
-    'domain' => env('domain'),
-    'port' => 8087,
+    'domain' => env('domain', 'localhost'),
+    'port' => env('port', 8080),
 ];
